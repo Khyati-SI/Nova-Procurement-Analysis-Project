@@ -1,0 +1,131 @@
+VendorID,VendorName,Category,City,State,Address,BankAccountNo,IFSC,GSTIN,OnboardedDate,ApprovedBy,PaymentTermsDays,Status,Missing_GSTIN_Flag,Shared_Bank_Account_Flag,Missing_Approver_Flag
+V0001,Global Pvt Ltd,Raw Material - Steel,Rajkot,Gujarat,"60, Industrial Area, Rajkot",38125409494,WGPZ0140115,31FIWZH9346M1Z9,2019-06-05,EMP0008,60,Active,0,0,0
+V0002,Apex Associates,Contract Labour,Coimbatore,Tamil Nadu,"369, Industrial Area, Coimbatore",50568574364,YTFL0796503,29ZDXEB8144A1Z9,2024-01-28,EMP0026,60,Active,0,0,0
+V0003,National Associates,Tooling & Dies,Rajkot,Gujarat,"208, Industrial Area, Rajkot",48644518647,OAHL0708158,19RISOE7211V1Z3,2024-10-06,EMP0048,30,Active,0,0,0
+V0004,Krishna Engineering Works,Machine Spares,Ludhiana,Punjab,"345, Industrial Area, Ludhiana",96329460134,IUDB0598216,26MXUEC9445V1Z6,2014-02-04,EMP0048,15,Active,0,0,0
+V0005,Ganesh Solutions,Packaging,Ludhiana,Punjab,"412, Industrial Area, Ludhiana",83308773243,YNBG0989545,32SMGRA2746Y1Z7,2016-11-27,EMP0008,45,Active,0,0,0
+V0006,Krishna Solutions,MRO Supplies,Chennai,Tamil Nadu,"442, Industrial Area, Chennai",77700141462,MGGQ0903013,29ITLVX7991R1Z8,2015-07-27,EMP0054,60,Active,0,0,0
+V0007,Prime & Co,Raw Material - Aluminium,Ludhiana,Punjab,"213, Industrial Area, Ludhiana",66183197117,KOKF0540552,32HHIOD4788M1Z3,2016-10-18,EMP0031,60,Active,0,0,0
+V0008,Shree Impex,IT & Software Services,Jamshedpur,Jharkhand,"113, Industrial Area, Jamshedpur",39180195016,HMKR0936912,10YHKXV9818X1Z9,2016-12-11,EMP0031,30,Active,0,1,0
+V0009,Bharat Impex,Electrical Components,Ludhiana,Punjab,"109, Industrial Area, Ludhiana",78128955006,LIWH0972335,,2020-07-02,EMP0034,30,Active,1,0,0
+V0010,Royal Enterprises,Machine Spares,Pune,Maharashtra,"65, Industrial Area, Pune",79155926488,MCYM0368690,21FBYBA5051G1Z1,2015-06-02,EMP0054,30,Active,0,0,0
+V0011,Horizon Impex,Facility & Housekeeping,Chennai,Tamil Nadu,"354, Industrial Area, Chennai",24935147672,VGSH0817497,36EIPYO7149M1Z4,2013-09-14,EMP0048,15,Active,0,1,0
+V0012,Om Corporation,MRO Supplies,Nashik,Maharashtra,"79, Industrial Area, Nashik",78559967386,LTZH0947458,31JNIWV2729N1Z6,2022-04-24,EMP0044,45,Active,0,0,0
+V0013,Ganesh Associates,Raw Material - Steel,Ludhiana,Punjab,"254, Industrial Area, Ludhiana",85388187517,WEFU0456871,20WVCWG8613S1Z7,2019-07-18,EMP0018,60,Active,0,1,0
+V0014,United Overseas,Tooling & Dies,Jamshedpur,Jharkhand,"114, Industrial Area, Jamshedpur",11654724287,KGRJ0680358,16CSMTR9041O1Z1,2014-02-01,EMP0039,30,Active,0,0,0
+V0015,Sigma Corporation,Machine Spares,Coimbatore,Tamil Nadu,"379, Industrial Area, Coimbatore",55854684750,MSZN0396745,24HGDFD9779Y1Z3,2016-04-18,EMP0008,30,Active,0,0,0
+V0016,Prime Corporation,Raw Material - Steel,Faridabad,Haryana,"294, Industrial Area, Faridabad",32424557359,HMIZ0364742,10SDBBH3068U1Z8,2014-04-20,EMP0063,45,Active,0,0,0
+V0017,Jai Suppliers,Facility & Housekeeping,Pune,Maharashtra,"306, Industrial Area, Pune",72179545125,UFNL0564226,28QBDOH5066D1Z9,2021-05-02,EMP0021,60,Active,0,0,0
+V0018,Global Impex,Consulting Services,Coimbatore,Tamil Nadu,"39, Industrial Area, Coimbatore",89164671796,EKRM0134225,29YCTQG2330F1Z4,2015-11-24,EMP0013,30,Active,0,0,0
+V0019,Global Associates,Machine Spares,Jamshedpur,Jharkhand,"332, Industrial Area, Jamshedpur",68176428684,DGDB0931131,31GGUPU4241N1Z2,2024-03-19,EMP0021,60,Active,0,0,0
+V0020,Vertex & Co,MRO Supplies,Jamshedpur,Jharkhand,"166, Industrial Area, Jamshedpur",66233523720,PAFR0703139,24RSYNM2317T1Z1,2021-09-09,EMP0046,15,Active,0,0,0
+V0021,United Impex,IT & Software Services,Indore,Madhya Pradesh,"179, Industrial Area, Indore",15919382051,KICE0531641,34ENLHZ8141U1Z8,2014-01-17,EMP0052,45,Active,0,0,0
+V0022,Balaji Overseas,Logistics & Freight,Faridabad,Haryana,"28, Industrial Area, Faridabad",14588365604,EJTQ0896907,12IIZKN1018V1Z9,2022-05-12,EMP0003,30,Active,0,0,0
+V0023,Sigma Traders,Logistics & Freight,Faridabad,Haryana,"48, Industrial Area, Faridabad",46570423569,FVCY0779172,32MAQUS6091R1Z1,2024-05-21,EMP0056,30,Active,0,0,0
+V0024,Global Overseas,Tooling & Dies,Ludhiana,Punjab,"396, Industrial Area, Ludhiana",44546129354,UKYN0960408,36MMLDE9327X1Z3,2013-07-25,EMP0002,30,Active,0,0,0
+V0025,Global Impex,MRO Supplies,Jamshedpur,Jharkhand,"123, Industrial Area, Jamshedpur",84808605988,OGUB0880879,25WLMIT7180O1Z6,2016-03-25,EMP0036,45,Active,0,0,0
+V0026,Bharat Engineering Works,Contract Labour,Coimbatore,Tamil Nadu,"497, Industrial Area, Coimbatore",14235555899,EMZI0826353,26ZICVC8486A1Z3,2021-03-12,EMP0031,15,Active,0,0,0
+V0027,Sigma Suppliers,Raw Material - Aluminium,Rajkot,Gujarat,"390, Industrial Area, Rajkot",50773020489,QWLS0130353,32XMOQG5708H1Z2,2021-09-25,EMP0003,30,Active,0,0,0
+V0028,Global Corporation,Facility & Housekeeping,Kanpur,Uttar Pradesh,"74, Industrial Area, Kanpur",57562446417,GQLR0943718,14GKREE7267T1Z4,2023-02-28,EMP0035,30,Active,0,0,0
+V0029,Sigma Traders,Raw Material - Aluminium,Indore,Madhya Pradesh,"122, Industrial Area, Indore",19574303740,JJHS0123005,21ZHZRL5949G1Z7,2022-11-02,EMP0056,45,Active,0,0,0
+V0030,Shree Impex,Contract Labour,Faridabad,Haryana,"98, Industrial Area, Faridabad",97935705734,QRSR0979060,33ZXTVX4770T1Z6,2016-11-29,EMP0009,15,Active,0,0,0
+V0031,Om & Co,Consulting Services,Indore,Madhya Pradesh,"257, Industrial Area, Indore",66135824891,XVGV0605254,28JDXIK4289E1Z9,2020-03-16,EMP0055,30,Active,0,0,0
+V0032,Sunrise Industries,Tooling & Dies,Jamshedpur,Jharkhand,"275, Industrial Area, Jamshedpur",69180852074,DJTG0499534,14TFRRK6992C1Z7,2012-04-24,EMP0056,30,Active,0,0,0
+V0033,Prime Engineering Works,Packaging,Pune,Maharashtra,"24, Industrial Area, Pune",13765233376,YHMC0663658,27IPQQM5951U1Z7,2014-08-13,EMP0009,45,Active,0,0,0
+V0034,Apex Solutions,Machine Spares,Ludhiana,Punjab,"228, Industrial Area, Ludhiana",99680027275,LGJZ0485178,23PSXRV7686I1Z1,2020-04-23,EMP0044,30,Active,0,0,0
+V0035,Balaji & Co,Packaging,Kanpur,Uttar Pradesh,"403, Industrial Area, Kanpur",34231167999,OBTF0326441,37VCFQZ1828Z1Z6,2017-06-18,EMP0056,30,Active,0,0,0
+V0036,Bharat Impex,Machine Spares,Rajkot,Gujarat,"302, Industrial Area, Rajkot",10397721596,IEBT0651640,37ZZOUC1422E1Z1,2020-01-13,EMP0008,15,Active,0,0,0
+V0037,Krishna Corporation,Raw Material - Steel,Ludhiana,Punjab,"246, Industrial Area, Ludhiana",75737444033,WLCS0565108,13LFPSX9543J1Z8,2012-09-12,EMP0004,15,Active,0,0,0
+V0038,Horizon Traders,Raw Material - Aluminium,Rajkot,Gujarat,"407, Industrial Area, Rajkot",18235497187,SWQT0855855,18QPSJP5831O1Z9,2021-08-25,EMP0063,30,Active,0,0,0
+V0039,Krishna Pvt Ltd,Raw Material - Aluminium,Coimbatore,Tamil Nadu,"426, Industrial Area, Coimbatore",62463925049,CLTJ0236435,,2013-07-03,EMP0044,15,Active,1,0,0
+V0040,Sigma Overseas,Raw Material - Aluminium,Nashik,Maharashtra,"296, Industrial Area, Nashik",52819421270,NEMW0467121,13KWYKX1842J1Z5,2019-11-20,EMP0063,60,Active,0,0,0
+V0041,National & Co,Packaging,Rajkot,Gujarat,"140, Industrial Area, Rajkot",83342836476,SIIA0250210,35LOTQR1430T1Z5,2012-08-25,EMP0046,45,Active,0,0,0
+V0042,Bharat Associates,Packaging,Pune,Maharashtra,"81, Industrial Area, Pune",91132917811,TBCL0544611,12TFKIJ6314Y1Z2,2013-03-06,EMP0036,60,Active,0,0,0
+V0043,Ganesh & Co,Facility & Housekeeping,Ludhiana,Punjab,"29, Industrial Area, Ludhiana",37910614025,AHFD0367931,26CLHRM6053B1Z4,2020-11-11,EMP0021,30,Active,0,0,0
+V0044,Shree Engineering Works,Raw Material - Steel,Pune,Maharashtra,"236, Industrial Area, Pune",85388187517,XWOO0843963,14JSNVU2180M1Z1,2021-10-13,EMP0049,45,Active,0,1,0
+V0045,National Suppliers,Logistics & Freight,Faridabad,Haryana,"269, Industrial Area, Faridabad",12448717183,CWTF0916964,15UQVXC2734H1Z7,2025-03-17,EMP0010,15,Active,0,1,0
+V0046,National Overseas,Facility & Housekeeping,Noida,Uttar Pradesh,"79, Industrial Area, Noida",75308202515,TREU0618119,34JSVVG3399I1Z4,2015-11-22,EMP0035,60,Active,0,0,0
+V0047,Krishna Solutions,Facility & Housekeeping,Nashik,Maharashtra,"29, Industrial Area, Nashik",82790407222,JBMA0486649,30ZIZIL8682O1Z5,2018-02-28,EMP0056,30,Active,0,0,0
+V0048,Jai Impex,Packaging,Pune,Maharashtra,"92, Green Park, Chennai",86644459924,BCXI0849014,22MOUXL4084K1Z8,2023-03-31,EMP0063,60,Active,0,0,0
+V0049,Star Enterprises,Contract Labour,Indore,Madhya Pradesh,"332, Industrial Area, Indore",41859803019,IIOK0364236,24ZNPJX7347N1Z6,2013-03-04,EMP0053,60,Active,0,0,0
+V0050,Sunrise Industries,Contract Labour,Chennai,Tamil Nadu,"406, Industrial Area, Chennai",84812548074,IDSY0818709,14XIRRD2388J1Z9,2020-06-12,EMP0039,15,Active,0,0,0
+V0051,Ganesh Overseas,Raw Material - Aluminium,Indore,Madhya Pradesh,"260, Industrial Area, Indore",56119574893,UVWA0453123,21IYITE3253E1Z2,2018-08-20,EMP0054,60,Active,0,0,0
+V0052,Horizon Suppliers,Facility & Housekeeping,Chennai,Tamil Nadu,"146, Industrial Area, Chennai",29274211616,TUGG0947903,15VUVEL7731L1Z4,2021-12-17,EMP0055,45,Active,0,0,0
+V0053,Apex Solutions,Raw Material - Steel,Ahmedabad,Gujarat,"329, Industrial Area, Ahmedabad",83573087862,MJYS0640970,24UUNKE4271Z1Z3,2017-08-10,EMP0063,15,Active,0,0,0
+V0054,Jai Traders,Logistics & Freight,Faridabad,Haryana,"258, Industrial Area, Faridabad",44582452834,JKCF0434165,26DLYFL6727A1Z7,2013-03-12,EMP0008,30,Active,0,0,0
+V0055,Bharat Enterprises,Packaging,Chennai,Tamil Nadu,"217, MG Road, Indore",46990949719,YPLU0349183,25SDSLA2298A1Z5,2016-11-01,EMP0002,15,Active,0,0,0
+V0056,Prime Suppliers,Tooling & Dies,Kanpur,Uttar Pradesh,"220, Industrial Area, Kanpur",91952442674,AJOE0800674,29LCXPA9443S1Z4,2015-03-22,EMP0004,60,Active,0,0,0
+V0057,Jai Overseas,Raw Material - Aluminium,Rajkot,Gujarat,"177, Industrial Area, Rajkot",79644738967,GRCP0893435,35ZOKMQ7116I1Z1,2024-10-26,EMP0026,30,Active,0,0,0
+V0058,Apex Overseas,Tooling & Dies,Kanpur,Uttar Pradesh,"104, Industrial Area, Kanpur",53973498494,BFBY0640418,30EUMSQ3209C1Z8,2012-10-29,EMP0031,60,Active,0,0,0
+V0059,United Enterprises,Logistics & Freight,Ludhiana,Punjab,"174, Industrial Area, Ludhiana",92305195749,ZMMY0644500,19JUWID7029N1Z7,2021-11-11,EMP0018,15,Active,0,0,0
+V0060,Ganesh Industries,MRO Supplies,Jamshedpur,Jharkhand,"228, Industrial Area, Jamshedpur",65746879296,JBWJ0556068,36EHCIH8305T1Z7,2024-10-26,EMP0018,15,Active,0,0,0
+V0061,Balaji Corporation,Contract Labour,Pune,Maharashtra,"188, Industrial Area, Pune",75960170255,JYAD0571778,33RYDPU1570E1Z2,2017-04-17,EMP0029,30,Active,0,0,0
+V0062,Jai Impex,Raw Material - Aluminium,Ludhiana,Punjab,"135, Industrial Area, Ludhiana",27668503222,USFP0827691,21KQGCT9176Q1Z7,2024-08-06,EMP0036,30,Active,0,0,0
+V0063,Bharat Industries,Consulting Services,Pune,Maharashtra,"149, Industrial Area, Pune",67285388355,XWSY0768676,,2024-05-02,EMP0010,30,Active,1,0,0
+V0064,Prime Industries,Tooling & Dies,Noida,Uttar Pradesh,"204, Industrial Area, Noida",35950474042,ZSNT0963333,14GMJOM3126T1Z2,2013-06-22,EMP0046,15,Active,0,0,0
+V0065,Sunrise Solutions,Consulting Services,Chennai,Tamil Nadu,"467, Industrial Area, Chennai",19583156434,WVNH0269834,24RIWUQ3981Y1Z3,2021-09-14,EMP0026,30,Active,0,0,0
+V0066,Elite & Co,Packaging,Rajkot,Gujarat,"88, Industrial Area, Rajkot",20369085407,RSPV0690996,16QODHN9234U1Z3,2025-01-08,EMP0003,15,Active,0,0,0
+V0067,Om Solutions,Machine Spares,Pune,Maharashtra,"413, Industrial Area, Pune",83384172112,UKLR0265759,30FOQAX9938J1Z5,2022-10-31,EMP0035,45,Active,0,0,0
+V0068,Krishna Pvt Ltd,Consulting Services,Ludhiana,Punjab,"55, Industrial Area, Ludhiana",53751396498,IMGG0201514,14ISTWZ3142Y1Z6,2023-07-20,EMP0003,30,Active,0,0,0
+V0069,Horizon Suppliers,IT & Software Services,Coimbatore,Tamil Nadu,"12, Industrial Area, Coimbatore",41271476207,CKLG0711680,36IPITM9433O1Z8,2018-12-02,EMP0029,15,Active,0,0,0
+V0070,Global Engineering Works,Raw Material - Steel,Kanpur,Uttar Pradesh,"206, Industrial Area, Kanpur",86802506364,BOJH0505116,31MNWLW6992Y1Z7,2020-03-16,EMP0039,45,Active,0,0,0
+V0071,United Impex,Facility & Housekeeping,Noida,Uttar Pradesh,"136, Civil Lines, Pune",97756102581,KBBS0943019,13DCJZO6990Y1Z3,2016-06-18,EMP0051,60,Active,0,0,0
+V0072,Bharat Impex,IT & Software Services,Ludhiana,Punjab,"333, Sector 12, Jamshedpur",75250088694,OMAI0214928,20YIKQV6511Q1Z9,2023-12-09,EMP0030,60,Active,0,0,0
+V0073,Shree Impex,Contract Labour,Faridabad,Haryana,"125, Industrial Area, Faridabad",70385111130,AYCA0428930,30UUPSP3793Q1Z7,2015-04-25,EMP0034,30,Active,0,0,0
+V0074,Metro Suppliers,Consulting Services,Coimbatore,Tamil Nadu,"193, Industrial Area, Coimbatore",74932120169,IEXI0471496,29XWTBD4397R1Z6,2022-09-23,EMP0051,30,Active,0,0,0
+V0075,Royal Pvt Ltd,Consulting Services,Nashik,Maharashtra,"479, Industrial Area, Nashik",41399580835,YSHO0669576,27HYZUS9011K1Z8,2019-10-28,EMP0031,45,Active,0,0,0
+V0076,Bharat & Co,Packaging,Rajkot,Gujarat,"56, Industrial Area, Rajkot",15408840720,QPGR0656837,,2018-02-03,EMP0013,30,Active,1,0,0
+V0077,National Suppliers,Contract Labour,Kanpur,Uttar Pradesh,"103, Industrial Area, Kanpur",52870257350,THHB0906066,25CUAOY7666U1Z8,2022-09-16,EMP0004,60,Active,0,0,0
+V0078,Sigma Associates,Raw Material - Steel,Ahmedabad,Gujarat,"153, Industrial Area, Ahmedabad",14287974375,OCZH0772464,23WEXZK9116F1Z5,2012-11-02,EMP0044,60,Active,0,0,0
+V0079,Bharat Overseas,Facility & Housekeeping,Ludhiana,Punjab,"346, Industrial Area, Ludhiana",69392956587,TEWX0967161,16VITQS1230X1Z6,2018-08-13,EMP0034,60,Active,0,0,0
+V0080,Jai Suppliers,Tooling & Dies,Rajkot,Gujarat,"299, Industrial Area, Rajkot",95202418976,SAQS0165142,15ZMYAJ8319Y1Z5,2019-05-24,EMP0051,15,Active,0,0,0
+V0081,Global Traders,Packaging,Ludhiana,Punjab,"245, Industrial Area, Ludhiana",61836665942,DTPK0675914,26YXURQ5833L1Z4,2016-11-30,EMP0036,60,Active,0,0,0
+V0082,Metro Pvt Ltd,Machine Spares,Indore,Madhya Pradesh,"294, Industrial Area, Indore",97910395417,NEWL0813341,29WCLSC2838B1Z9,2023-05-03,EMP0012,60,Active,0,0,0
+V0083,Jai Overseas,Tooling & Dies,Ludhiana,Punjab,"419, Industrial Area, Ludhiana",67968326513,AFBL0834406,11LNLBM6049X1Z1,2020-11-17,EMP0004,60,Active,0,0,0
+V0084,Jai Engineering Works,Logistics & Freight,Kanpur,Uttar Pradesh,"42, Industrial Area, Kanpur",14408261300,RROQ0464663,23EDQSZ7135M1Z8,2020-06-19,EMP0008,30,Active,0,0,0
+V0085,Balaji Overseas,Machine Spares,Noida,Uttar Pradesh,"236, Industrial Area, Noida",26881531720,JHYS0218326,17VTZMS7948R1Z7,2017-02-24,EMP0003,45,Active,0,0,0
+V0086,Shree Pvt Ltd,Consulting Services,Nashik,Maharashtra,"112, Industrial Area, Nashik",36172253060,TUDZ0345536,13PLRWG1724M1Z8,2017-04-03,EMP0056,60,Active,0,0,0
+V0087,Vertex Impex,Contract Labour,Rajkot,Gujarat,"348, Industrial Area, Rajkot",96978731508,LMZY0803953,20GWZNK5508B1Z9,2015-12-05,EMP0031,60,Active,0,0,0
+V0088,Ganesh Suppliers,Consulting Services,Rajkot,Gujarat,"212, Industrial Area, Rajkot",29422002819,ZODG0313214,22ENGFW3365Z1Z8,2013-04-17,EMP0026,15,Active,0,0,0
+V0089,Apex Industries,IT & Software Services,Ludhiana,Punjab,"107, Industrial Area, Ludhiana",78878016905,WIYA0299254,36EGRPW4082Z1Z9,2016-11-12,EMP0053,15,Active,0,0,0
+V0090,Royal Pvt Ltd,Tooling & Dies,Jamshedpur,Jharkhand,"185, Industrial Area, Jamshedpur",99748971205,NMCZ0592296,32FXOUJ9743U1Z6,2018-12-01,EMP0054,30,Active,0,0,0
+V0091,Apex Corporation,Electrical Components,Ahmedabad,Gujarat,"118, Industrial Area, Ahmedabad",12448717183,JVMR0818113,28WTAOP7841J1Z3,2016-05-26,EMP0026,30,Active,0,1,0
+V0092,Royal Engineering Works,Contract Labour,Ludhiana,Punjab,"25, Industrial Area, Ludhiana",31886808192,TKVG0841521,35JDOEX1962Q1Z1,2013-08-31,EMP0009,15,Active,0,0,0
+V0093,Elite Engineering Works,Raw Material - Steel,Ahmedabad,Gujarat,"272, Industrial Area, Ahmedabad",57164907817,SNHN0831758,29QYXRA9719R1Z7,2012-04-07,EMP0051,45,Active,0,0,0
+V0094,National Industries,Machine Spares,Chennai,Tamil Nadu,"357, Industrial Area, Chennai",77259877461,FRWQ0999908,17ENVGK7112M1Z8,2024-09-02,EMP0049,15,Active,0,0,0
+V0095,Balaji Suppliers,Raw Material - Steel,Pune,Maharashtra,"118, Industrial Area, Pune",58693458652,FWXM0148823,25BAEML6427S1Z2,2023-11-05,EMP0004,30,Active,0,0,0
+V0096,Vertex Solutions,Facility & Housekeeping,Noida,Uttar Pradesh,"124, Industrial Area, Noida",14292580427,OWRO0502491,37IYPTS7525C1Z5,2015-08-23,EMP0054,30,Active,0,0,0
+V0097,Jai Overseas,Contract Labour,Jamshedpur,Jharkhand,"140, Industrial Area, Jamshedpur",54157656107,ULFO0493663,13LVITY7499Y1Z6,2012-08-30,EMP0034,30,Active,0,0,0
+V0098,Vertex Solutions,Electrical Components,Indore,Madhya Pradesh,"55, Industrial Area, Indore",58192013357,CYLT0207197,34QUSCE3527X1Z7,2019-02-07,EMP0009,15,Active,0,1,0
+V0099,Ganesh Engineering Works,Logistics & Freight,Chennai,Tamil Nadu,"199, Industrial Area, Chennai",81695647539,USOZ0354533,26KAJCP6315M1Z1,2018-07-18,EMP0046,60,Active,0,0,0
+V0100,Balaji Traders,MRO Supplies,Chennai,Tamil Nadu,"321, Industrial Area, Chennai",27388749542,MQLD0107096,19GDEHH2260L1Z5,2017-07-13,EMP0031,30,Active,0,0,0
+V0101,Balaji Corporation,Logistics & Freight,Nashik,Maharashtra,"496, Industrial Area, Nashik",66459420281,ITQZ0919959,23VWZDI4290P1Z6,2015-12-26,EMP0013,30,Active,0,0,0
+V0102,United Suppliers,Tooling & Dies,Coimbatore,Tamil Nadu,"426, Industrial Area, Coimbatore",44932271276,SVUK0623557,28FZETA8563W1Z4,2021-10-31,EMP0009,30,Active,0,1,0
+V0103,United Solutions,Raw Material - Steel,Ahmedabad,Gujarat,"405, Industrial Area, Ahmedabad",29867979226,ZSVP0189110,23UBZMK9300W1Z7,2025-02-06,EMP0008,30,Active,0,0,0
+V0104,Apex Traders,Tooling & Dies,Indore,Madhya Pradesh,"114, Industrial Area, Indore",92757857890,NNPO0567432,11OQQZI8052D1Z1,2014-03-18,EMP0029,45,Active,0,0,0
+V0105,Vertex Associates,IT & Software Services,Ludhiana,Punjab,"402, Industrial Area, Ludhiana",74261861139,FMML0830609,21ZMHXC3321L1Z5,2019-09-11,EMP0035,30,Active,0,0,0
+V0106,Global Enterprises,Electrical Components,Pune,Maharashtra,"287, Industrial Area, Pune",24124250578,LMUQ0295440,37ICUYT9454F1Z9,2015-08-04,EMP0049,45,Active,0,0,0
+V0107,Shree Associates,Packaging,Coimbatore,Tamil Nadu,"188, Industrial Area, Coimbatore",88311875497,ILGW0653349,24PKSFT2025S1Z2,2024-01-16,EMP0049,30,Active,0,0,0
+V0108,Balaji Impex,Electrical Components,Nashik,Maharashtra,"61, Industrial Area, Nashik",60730291513,GDJD0507333,13JVQVS5873T1Z2,2015-01-02,EMP0034,60,Active,0,0,0
+V0109,Vertex Suppliers,Electrical Components,Chennai,Tamil Nadu,"432, Industrial Area, Chennai",64299451515,LBJA0243167,25QSQZO9022J1Z3,2016-03-12,EMP0012,45,Active,0,0,0
+V0110,Elite Solutions,Machine Spares,Noida,Uttar Pradesh,"276, Industrial Area, Noida",58192013357,HUOU0619373,31MSLEO4613J1Z1,2018-03-01,EMP0044,60,Active,0,1,0
+V0111,Vertex Industries,MRO Supplies,Pune,Maharashtra,"425, Industrial Area, Pune",44932271276,QGWA0375581,27VJVBS9951G1Z7,2014-04-18,EMP0029,15,Active,0,1,0
+V0112,National Pvt Ltd,Raw Material - Steel,Ludhiana,Punjab,"292, Industrial Area, Ludhiana",36970485411,JHOI0838253,33PJSQE3281Z1Z4,2016-08-22,EMP0021,30,Active,0,0,0
+V0113,United Overseas,Packaging,Nashik,Maharashtra,"365, Industrial Area, Nashik",96975293837,IGVK0249077,13DTKBH3078W1Z3,2017-08-07,EMP0046,30,Active,0,0,0
+V0114,Ganesh Suppliers,Facility & Housekeeping,Indore,Madhya Pradesh,"2, Industrial Area, Indore",67181084980,WWCZ0765678,30UTKTS7046O1Z8,2019-05-05,EMP0051,30,Active,0,0,0
+V0115,Sigma Suppliers,Raw Material - Steel,Pune,Maharashtra,"51, Industrial Area, Pune",37561325766,QVAY0265657,,2013-01-31,EMP0035,45,Active,1,0,0
+V0116,Ganesh Pvt Ltd,Logistics & Freight,Kanpur,Uttar Pradesh,"321, Industrial Area, Kanpur",98241640592,HSGR0837880,30HWWCJ2350L1Z3,2013-02-28,EMP0008,15,Active,0,0,0
+V0117,Royal Industries,Raw Material - Aluminium,Ahmedabad,Gujarat,"118, Industrial Area, Ahmedabad",26737458510,JSCI0413791,17NLAID7919W1Z3,2022-09-18,EMP0009,45,Active,0,0,0
+V0118,Bharat Industries,Raw Material - Aluminium,Chennai,Tamil Nadu,"460, Industrial Area, Chennai",77704829337,CTPJ0550246,10PEJFT7745T1Z8,2016-11-14,EMP0026,30,Active,0,0,0
+V0119,United Solutions,Machine Spares,Ahmedabad,Gujarat,"383, Industrial Area, Ahmedabad",24935147672,KQUU0350967,27PSHYA5942G1Z9,2023-06-06,EMP0036,45,Active,0,1,0
+V0120,Prime Engineering Works,IT & Software Services,Pune,Maharashtra,"489, Industrial Area, Pune",91737727239,ZBPA0326222,12NZZYD7895L1Z9,2015-11-16,EMP0003,15,Active,0,0,0
+V0121,Elite & Co,Raw Material - Aluminium,Coimbatore,Tamil Nadu,"262, Industrial Area, Coimbatore",90865179645,XZEI0714923,26TLKQN3501I1Z2,2018-12-13,EMP0049,15,Active,0,0,0
+V0122,Ganesh Associates,MRO Supplies,Faridabad,Haryana,"6, Industrial Area, Faridabad",40162176039,EYNU0855777,17CLLPI3877D1Z1,2024-05-14,EMP0018,30,Active,0,0,0
+V0123,Bharat Associates,Electrical Components,Rajkot,Gujarat,"29, Industrial Area, Rajkot",44886983862,MOJG0207903,13UAUHB2262P1Z8,2023-06-16,EMP0046,15,Active,0,0,0
+V0124,Elite Enterprises,Electrical Components,Ahmedabad,Gujarat,"128, Industrial Area, Ahmedabad",15113194223,KSHC0490917,17BJXEY1579R1Z7,2017-01-13,EMP0008,60,Active,0,0,0
+V0125,Om Traders,IT & Software Services,Indore,Madhya Pradesh,"5, Industrial Area, Indore",38963651372,JHUT0354367,26ZYBMH6090K1Z2,2024-05-27,EMP0035,30,Active,0,0,0
+V0126,Royal Pvt Ltd,MRO Supplies,Nashik,Maharashtra,"373, Industrial Area, Nashik",79916561565,HFZK0162804,35GAKGJ1157K1Z1,2020-06-09,EMP0009,30,Active,0,0,0
+V0127,Om Pvt Ltd,Contract Labour,Pune,Maharashtra,"494, Industrial Area, Pune",76543516366,DHWY0512040,32XLTPN7461C1Z1,2021-10-03,EMP0052,30,Active,0,0,0
+V0128,Krishna & Co,Electrical Components,Rajkot,Gujarat,"494, Industrial Area, Rajkot",39180195016,ULMW0194813,16DUCCL6145N1Z2,2024-01-08,EMP0010,30,Active,0,1,0
+V0129,Horizon Enterprises,Logistics & Freight,Jamshedpur,Jharkhand,"438, Industrial Area, Jamshedpur",37997567367,LTGM0942946,37ICGJN5896I1Z3,2024-05-01,EMP0055,30,Active,0,0,0
+V0130,Shree Enterprises,Machine Spares,Pune,Maharashtra,"463, Industrial Area, Pune",38240354421,QVCW0948179,16VJQQP5240C1Z1,2013-06-12,EMP0026,15,Active,0,0,0
