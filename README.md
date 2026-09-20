@@ -62,8 +62,6 @@ The project uses four synthetic datasets covering **FY2024â€“25 (1 April 2024 â€
   - Filters and slicers
   - Procurement risk analysis
   - Payment analysis
-- **Excel**
-  - Initial data inspection and validation
 - **GitHub**
   - Project documentation
   - Version control
