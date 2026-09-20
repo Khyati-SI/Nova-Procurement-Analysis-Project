@@ -87,12 +87,14 @@ Exploratory Data Analysis
 Business Findings
         ↓
 Power BI Dashboard
+        ↓
+Recommendations
 
 # Power BI Dashboard
 
 The Power BI dashboard was designed to allow management to explore procurement activity from different perspectives.
-### Dashboard Preview
 
+### Dashboard Preview
 #### Executive Overview
 
 ![Executive Overview](outputs/charts/01_Executive_Overview.png)
@@ -112,6 +114,3 @@ The Power BI dashboard was designed to allow management to explore procurement a
 #### Vendor Investigation
 
 ![Vendor Investigation](outputs/charts/05_Vendor_Investigation.png)
-
-        ↓
-Recommendations
