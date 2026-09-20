@@ -1,5 +1,6 @@
-pandas
-numpy
-matplotlib
-openpyxl
-jupyter
+Python -pandas
+        numpy
+        matplotlib
+        openpyxl
+        jupyter
+Power BI
