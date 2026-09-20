@@ -1,0 +1,5 @@
+Dataset,Rows_Before_Cleaning,Rows_After_Cleaning,Rows_Removed
+Vendor_Master,130,130,0
+Employees_Approvers,65,65,0
+Purchase_Orders,520,520,0
+Invoices_Payments,650,644,6

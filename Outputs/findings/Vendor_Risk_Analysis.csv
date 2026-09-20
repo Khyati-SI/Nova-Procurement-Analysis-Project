@@ -1,0 +1,131 @@
+VendorID,VendorName,Category,City,Shared_Bank_Account_Flag,Missing_GSTIN_Flag,Total_Spend_INR,Spend_Percentage,Cumulative_Spend_Percentage
+V0001,Global Pvt Ltd,Raw Material - Steel,Rajkot,0,0,157300.0,0.17,96.91
+V0002,Apex Associates,Contract Labour,Coimbatore,0,0,633200.0,0.69,70.92
+V0003,National Associates,Tooling & Dies,Rajkot,0,0,188700.0,0.21,94.84
+V0004,Krishna Engineering Works,Machine Spares,Ludhiana,0,0,100600.0,0.11,99.16
+V0005,Ganesh Solutions,Packaging,Ludhiana,0,0,351000.0,0.38,86.48
+V0006,Krishna Solutions,MRO Supplies,Chennai,0,0,382500.0,0.42,84.12
+V0007,Prime & Co,Raw Material - Aluminium,Ludhiana,0,0,71424.0,0.08,99.53
+V0008,Shree Impex,IT & Software Services,Jamshedpur,1,0,108900.0,0.12,98.82
+V0009,Bharat Impex,Electrical Components,Ludhiana,0,1,190400.0,0.21,94.63
+V0010,Royal Enterprises,Machine Spares,Pune,0,0,423300.0,0.46,81.49
+V0011,Horizon Impex,Facility & Housekeeping,Chennai,1,0,223600.0,0.24,93.25
+V0012,Om Corporation,MRO Supplies,Nashik,0,0,422800.0,0.46,81.95
+V0013,Ganesh Associates,Raw Material - Steel,Ludhiana,1,0,265900.0,0.29,90.53
+V0014,United Overseas,Tooling & Dies,Jamshedpur,0,0,731500.0,0.8,66.53
+V0015,Sigma Corporation,Machine Spares,Coimbatore,0,0,147700.0,0.16,97.73
+V0016,Prime Corporation,Raw Material - Steel,Faridabad,0,0,605500.0,0.66,72.96
+V0017,Jai Suppliers,Facility & Housekeeping,Pune,0,0,403889.0,0.44,82.84
+V0018,Global Impex,Consulting Services,Coimbatore,0,0,34600.0,0.04,99.98
+V0019,Global Associates,Machine Spares,Jamshedpur,0,0,286700.0,0.31,89.64
+V0020,Vertex & Co,MRO Supplies,Jamshedpur,0,0,12712.0,0.01,100.01
+V0021,United Impex,IT & Software Services,Indore,0,0,367903.0,0.4,84.92
+V0022,Balaji Overseas,Logistics & Freight,Faridabad,0,0,151200.0,0.16,97.41
+V0023,Sigma Traders,Logistics & Freight,Faridabad,0,0,254600.0,0.28,91.96
+V0024,Global Overseas,Tooling & Dies,Ludhiana,0,0,387300.0,0.42,83.7
+V0025,Global Impex,MRO Supplies,Jamshedpur,0,0,130200.0,0.14,98.31
+V0026,Bharat Engineering Works,Contract Labour,Coimbatore,0,0,52300.0,0.06,99.79
+V0027,Sigma Suppliers,Raw Material - Aluminium,Rajkot,0,0,801400.0,0.87,63.14
+V0028,Global Corporation,Facility & Housekeeping,Kanpur,0,0,888700.0,0.97,61.32
+V0029,Sigma Traders,Raw Material - Aluminium,Indore,0,0,178151.0,0.19,95.83
+V0030,Shree Impex,Contract Labour,Faridabad,0,0,151300.0,0.17,97.25
+V0031,Om & Co,Consulting Services,Indore,0,0,787383.0,0.86,64.87
+V0032,Sunrise Industries,Tooling & Dies,Jamshedpur,0,0,350400.0,0.38,86.86
+V0033,Prime Engineering Works,Packaging,Pune,0,0,356700.0,0.39,85.71
+V0034,Apex Solutions,Machine Spares,Ludhiana,0,0,244800.0,0.27,92.23
+V0035,Balaji & Co,Packaging,Kanpur,0,0,223500.0,0.24,93.49
+V0036,Bharat Impex,Machine Spares,Rajkot,0,0,268200.0,0.29,90.24
+V0037,Krishna Corporation,Raw Material - Steel,Ludhiana,0,0,180800.0,0.2,95.44
+V0038,Horizon Traders,Raw Material - Aluminium,Rajkot,0,0,89000.0,0.1,99.26
+V0039,Krishna Pvt Ltd,Raw Material - Aluminium,Coimbatore,0,1,121600.0,0.13,98.58
+V0040,Sigma Overseas,Raw Material - Aluminium,Nashik,0,0,52600.0,0.06,99.73
+V0041,National & Co,Packaging,Rajkot,0,0,298200.0,0.33,89.33
+V0042,Bharat Associates,Packaging,Pune,0,0,171900.0,0.19,96.02
+V0043,Ganesh & Co,Facility & Housekeeping,Ludhiana,0,0,364154.0,0.4,85.32
+V0044,Shree Engineering Works,Raw Material - Steel,Pune,1,0,440800.0,0.48,80.09
+V0045,National Suppliers,Logistics & Freight,Faridabad,1,0,260400.0,0.28,91.68
+V0046,National Overseas,Facility & Housekeeping,Noida,0,0,428000.0,0.47,81.03
+V0047,Krishna Solutions,Facility & Housekeeping,Nashik,0,0,3009600.0,3.28,53.44
+V0048,Jai Impex,Packaging,Pune,0,0,442800.0,0.48,79.61
+V0049,Star Enterprises,Contract Labour,Indore,0,0,3170707.0,3.46,43.38
+V0050,Sunrise Industries,Contract Labour,Chennai,0,0,472200.0,0.52,77.63
+V0051,Ganesh Overseas,Raw Material - Aluminium,Indore,0,0,46300.0,0.05,99.9
+V0052,Horizon Suppliers,Facility & Housekeeping,Chennai,0,0,545700.0,0.6,74.85
+V0053,Apex Solutions,Raw Material - Steel,Ahmedabad,0,0,62300.0,0.07,99.67
+V0054,Jai Traders,Logistics & Freight,Faridabad,0,0,430600.0,0.47,80.56
+V0055,Bharat Enterprises,Packaging,Chennai,0,0,948200.0,1.03,59.37
+V0056,Prime Suppliers,Tooling & Dies,Kanpur,0,0,334800.0,0.37,87.6
+V0057,Jai Overseas,Raw Material - Aluminium,Rajkot,0,0,167400.0,0.18,96.38
+V0058,Apex Overseas,Tooling & Dies,Kanpur,0,0,370700.0,0.4,84.52
+V0059,United Enterprises,Logistics & Freight,Ludhiana,0,0,645000.0,0.7,70.23
+V0060,Ganesh Industries,MRO Supplies,Jamshedpur,0,0,237700.0,0.26,93.01
+V0061,Balaji Corporation,Contract Labour,Pune,0,0,867220.0,0.95,62.27
+V0062,Jai Impex,Raw Material - Aluminium,Ludhiana,0,0,38100.0,0.04,99.94
+V0063,Bharat Industries,Consulting Services,Pune,0,1,304100.0,0.33,89.0
+V0064,Prime Industries,Tooling & Dies,Noida,0,0,218200.0,0.24,93.97
+V0065,Sunrise Solutions,Consulting Services,Chennai,0,0,156000.0,0.17,97.08
+V0066,Elite & Co,Packaging,Rajkot,0,0,51700.0,0.06,99.85
+V0067,Om Solutions,Machine Spares,Pune,0,0,83300.0,0.09,99.45
+V0068,Krishna Pvt Ltd,Consulting Services,Ludhiana,0,0,399300.0,0.44,83.28
+V0069,Horizon Suppliers,IT & Software Services,Coimbatore,0,0,584200.0,0.64,74.25
+V0070,Global Engineering Works,Raw Material - Steel,Kanpur,0,0,144500.0,0.16,97.89
+V0071,United Impex,Facility & Housekeeping,Noida,0,0,67800.0,0.07,99.6
+V0072,Bharat Impex,IT & Software Services,Ludhiana,0,0,795848.0,0.87,64.01
+V0073,Shree Impex,Contract Labour,Faridabad,0,0,168400.0,0.18,96.2
+V0074,Metro Suppliers,Consulting Services,Coimbatore,0,0,9934196.0,10.84,21.72
+V0075,Royal Pvt Ltd,Consulting Services,Nashik,0,0,87500.0,0.1,99.36
+V0076,Bharat & Co,Packaging,Rajkot,0,1,203800.0,0.22,94.42
+V0077,National Suppliers,Contract Labour,Kanpur,0,0,101400.0,0.11,99.05
+V0078,Sigma Associates,Raw Material - Steel,Ahmedabad,0,0,239900.0,0.26,92.49
+V0079,Bharat Overseas,Facility & Housekeeping,Ludhiana,0,0,487833.0,0.53,77.11
+V0080,Jai Suppliers,Tooling & Dies,Rajkot,0,0,9814500.0,10.71,32.43
+V0081,Global Traders,Packaging,Ludhiana,0,0,1949152.0,2.13,55.57
+V0082,Metro Pvt Ltd,Machine Spares,Indore,0,0,131600.0,0.14,98.03
+V0083,Jai Overseas,Tooling & Dies,Ludhiana,0,0,166300.0,0.18,96.56
+V0084,Jai Engineering Works,Logistics & Freight,Kanpur,0,0,262000.0,0.29,91.11
+V0085,Balaji Overseas,Machine Spares,Noida,0,0,895400.0,0.98,60.35
+V0086,Shree Pvt Ltd,Consulting Services,Nashik,0,0,3168000.0,3.46,46.84
+V0087,Vertex Impex,Contract Labour,Rajkot,0,0,682700.0,0.74,68.81
+V0088,Ganesh Suppliers,Consulting Services,Rajkot,0,0,113100.0,0.12,98.7
+V0089,Apex Industries,IT & Software Services,Ludhiana,0,0,3301700.0,3.6,39.92
+V0090,Royal Pvt Ltd,Tooling & Dies,Jamshedpur,0,0,518200.0,0.57,76.58
+V0091,Apex Corporation,Electrical Components,Ahmedabad,1,0,1509600.0,1.65,57.22
+V0092,Royal Engineering Works,Contract Labour,Ludhiana,0,0,239300.0,0.26,92.75
+V0093,Elite Engineering Works,Raw Material - Steel,Ahmedabad,0,0,469300.0,0.51,78.14
+V0094,National Industries,Machine Spares,Chennai,0,0,185100.0,0.2,95.04
+V0095,Balaji Suppliers,Raw Material - Steel,Pune,0,0,451400.0,0.49,79.13
+V0096,Vertex Solutions,Facility & Housekeeping,Noida,0,0,3564700.0,3.89,36.32
+V0097,Jai Overseas,Contract Labour,Jamshedpur,0,0,630400.0,0.69,72.3
+V0098,Vertex Solutions,Electrical Components,Indore,1,0,591900.0,0.65,73.61
+V0099,Ganesh Engineering Works,Logistics & Freight,Chennai,0,0,327900.0,0.36,87.96
+V0100,Balaji Traders,MRO Supplies,Chennai,0,0,706100.0,0.77,67.3
+V0101,Balaji Corporation,Logistics & Freight,Nashik,0,0,209900.0,0.23,94.2
+V0102,United Suppliers,Tooling & Dies,Coimbatore,1,0,1031033.0,1.12,58.34
+V0103,United Solutions,Raw Material - Steel,Ahmedabad,0,0,633000.0,0.69,71.61
+V0104,Apex Traders,Tooling & Dies,Indore,0,0,221300.0,0.24,93.73
+V0105,Vertex Associates,IT & Software Services,Ludhiana,0,0,9972900.0,10.88,10.88
+V0106,Global Enterprises,Electrical Components,Pune,0,0,179400.0,0.2,95.64
+V0107,Shree Associates,Packaging,Coimbatore,0,0,413600.0,0.45,82.4
+V0108,Balaji Impex,Electrical Components,Nashik,0,0,17700.0,0.02,100.0
+V0109,Vertex Suppliers,Electrical Components,Chennai,0,0,327235.0,0.36,88.32
+V0110,Elite Solutions,Machine Spares,Noida,1,0,3045500.0,3.32,50.16
+V0111,Vertex Industries,MRO Supplies,Pune,1,0,341000.0,0.37,87.23
+V0112,National Pvt Ltd,Raw Material - Steel,Ludhiana,0,0,355700.0,0.39,86.1
+V0113,United Overseas,Packaging,Nashik,0,0,265000.0,0.29,90.82
+V0114,Ganesh Suppliers,Facility & Housekeeping,Indore,0,0,657700.0,0.72,69.53
+V0115,Sigma Suppliers,Raw Material - Steel,Pune,0,1,129000.0,0.14,98.45
+V0116,Ganesh Pvt Ltd,Logistics & Freight,Kanpur,0,0,149700.0,0.16,97.57
+V0117,Royal Industries,Raw Material - Aluminium,Ahmedabad,0,0,525000.0,0.57,76.01
+V0118,Bharat Industries,Raw Material - Aluminium,Chennai,0,0,181800.0,0.2,95.24
+V0119,United Solutions,Machine Spares,Ahmedabad,1,0,702408.0,0.77,68.07
+V0120,Prime Engineering Works,IT & Software Services,Pune,0,0,4900.0,0.01,100.03
+V0121,Elite & Co,Raw Material - Aluminium,Coimbatore,0,0,317400.0,0.35,88.67
+V0122,Ganesh Associates,MRO Supplies,Faridabad,0,0,542935.0,0.59,75.44
+V0123,Bharat Associates,Electrical Components,Rajkot,0,0,281088.0,0.31,89.95
+V0124,Elite Enterprises,Electrical Components,Ahmedabad,0,0,459200.0,0.5,78.64
+V0125,Om Traders,IT & Software Services,Indore,0,0,784100.0,0.86,65.73
+V0126,Royal Pvt Ltd,MRO Supplies,Nashik,0,0,131500.0,0.14,98.17
+V0127,Om Pvt Ltd,Contract Labour,Pune,0,0,107800.0,0.12,98.94
+V0128,Krishna & Co,Electrical Components,Rajkot,1,0,164200.0,0.18,96.74
+V0129,Horizon Enterprises,Logistics & Freight,Jamshedpur,0,0,262000.0,0.29,91.4
+V0130,Shree Enterprises,Machine Spares,Pune,0,0,10500.0,0.01,100.02

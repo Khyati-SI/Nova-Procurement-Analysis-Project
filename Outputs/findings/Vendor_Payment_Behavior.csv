@@ -1,0 +1,131 @@
+VendorID,Invoice_Count,Total_Invoice_Value,Average_Payment_Delay,Late_Payments,Late_Payment_Percentage,VendorName,Category
+V0040,1,52600.0,69.0,1,100.0,Sigma Overseas,Raw Material - Aluminium
+V0108,1,17700.0,68.0,1,100.0,Balaji Impex,Electrical Components
+V0007,3,69648.0,67.33333333333333,3,100.0,Prime & Co,Raw Material - Aluminium
+V0019,4,286700.0,67.25,4,100.0,Global Associates,Machine Spares
+V0006,3,382500.0,66.0,3,100.0,Krishna Solutions,MRO Supplies
+V0048,5,442800.0,65.2,5,100.0,Jai Impex,Packaging
+V0083,2,166300.0,64.5,2,100.0,Jai Overseas,Tooling & Dies
+V0001,2,157300.0,64.0,2,100.0,Global Pvt Ltd,Raw Material - Steel
+V0013,5,265900.0,63.8,5,100.0,Ganesh Associates,Raw Material - Steel
+V0082,3,-24900.0,63.666666666666664,3,100.0,Metro Pvt Ltd,Machine Spares
+V0081,10,1949152.0,63.6,10,100.0,Global Traders,Packaging
+V0002,7,633200.0,63.42857142857143,7,100.0,Apex Associates,Contract Labour
+V0077,2,101400.0,63.0,2,100.0,National Suppliers,Contract Labour
+V0079,10,363833.0,62.3,10,100.0,Bharat Overseas,Facility & Housekeeping
+V0042,8,171900.0,62.0,8,100.0,Bharat Associates,Packaging
+V0110,4,3045500.0,60.75,4,100.0,Elite Solutions,Machine Spares
+V0086,4,3168000.0,59.25,4,100.0,Shree Pvt Ltd,Consulting Services
+V0051,1,46300.0,59.0,1,100.0,Ganesh Overseas,Raw Material - Aluminium
+V0124,7,459200.0,58.285714285714285,7,100.0,Elite Enterprises,Electrical Components
+V0056,9,334800.0,58.22222222222222,9,100.0,Prime Suppliers,Tooling & Dies
+V0046,7,428000.0,57.714285714285715,7,100.0,National Overseas,Facility & Housekeeping
+V0049,8,3170707.0,57.625,8,100.0,Star Enterprises,Contract Labour
+V0017,8,403889.0,57.125,8,100.0,Jai Suppliers,Facility & Housekeeping
+V0067,2,83300.0,55.5,2,100.0,Om Solutions,Machine Spares
+V0078,4,239900.0,55.0,4,100.0,Sigma Associates,Raw Material - Steel
+V0072,7,795848.0,54.285714285714285,7,100.0,Bharat Impex,IT & Software Services
+V0087,7,682700.0,52.142857142857146,7,100.0,Vertex Impex,Contract Labour
+V0058,7,370700.0,51.42857142857143,7,100.0,Apex Overseas,Tooling & Dies
+V0085,6,895400.0,50.333333333333336,6,100.0,Balaji Overseas,Machine Spares
+V0041,4,298200.0,50.25,4,100.0,National & Co,Packaging
+V0029,5,153202.0,49.8,5,100.0,Sigma Traders,Raw Material - Aluminium
+V0099,4,327900.0,49.5,4,100.0,Ganesh Engineering Works,Logistics & Freight
+V0016,5,605500.0,49.2,5,100.0,Prime Corporation,Raw Material - Steel
+V0044,6,440800.0,48.666666666666664,6,100.0,Shree Engineering Works,Raw Material - Steel
+V0075,2,87500.0,48.5,2,100.0,Royal Pvt Ltd,Consulting Services
+V0109,8,327235.0,48.5,8,100.0,Vertex Suppliers,Electrical Components
+V0093,4,469300.0,48.5,4,100.0,Elite Engineering Works,Raw Material - Steel
+V0005,6,351000.0,48.333333333333336,6,100.0,Ganesh Solutions,Packaging
+V0012,2,422800.0,48.0,2,100.0,Om Corporation,MRO Supplies
+V0115,2,129000.0,47.5,2,100.0,Sigma Suppliers,Raw Material - Steel
+V0070,2,144500.0,46.5,2,100.0,Global Engineering Works,Raw Material - Steel
+V0033,5,356700.0,45.6,5,100.0,Prime Engineering Works,Packaging
+V0025,5,130200.0,45.4,5,100.0,Global Impex,MRO Supplies
+V0021,9,367903.0,44.44444444444444,9,100.0,United Impex,IT & Software Services
+V0052,9,545700.0,44.44444444444444,9,100.0,Horizon Suppliers,Facility & Housekeeping
+V0106,4,179400.0,42.75,4,100.0,Global Enterprises,Electrical Components
+V0119,13,702408.0,41.69230769230769,13,100.0,United Solutions,Machine Spares
+V0071,2,67800.0,40.5,2,100.0,United Impex,Facility & Housekeeping
+V0104,4,221300.0,40.25,4,100.0,Apex Traders,Tooling & Dies
+V0038,2,89000.0,39.5,2,100.0,Horizon Traders,Raw Material - Aluminium
+V0107,4,413600.0,39.0,4,100.0,Shree Associates,Packaging
+V0120,1,4900.0,39.0,1,100.0,Prime Engineering Works,IT & Software Services
+V0032,4,350400.0,38.5,4,100.0,Sunrise Industries,Tooling & Dies
+V0057,4,167400.0,37.5,4,100.0,Jai Overseas,Raw Material - Aluminium
+V0015,5,147700.0,36.8,5,100.0,Sigma Corporation,Machine Spares
+V0073,4,168400.0,36.5,4,100.0,Shree Impex,Contract Labour
+V0003,4,188700.0,36.5,4,100.0,National Associates,Tooling & Dies
+V0091,3,1509600.0,36.333333333333336,3,100.0,Apex Corporation,Electrical Components
+V0118,4,181800.0,36.25,4,100.0,Bharat Industries,Raw Material - Aluminium
+V0024,12,387300.0,35.916666666666664,12,100.0,Global Overseas,Tooling & Dies
+V0129,3,262000.0,35.333333333333336,3,100.0,Horizon Enterprises,Logistics & Freight
+V0047,3,3009600.0,35.333333333333336,3,100.0,Krishna Solutions,Facility & Housekeeping
+V0043,8,364154.0,35.25,8,100.0,Ganesh & Co,Facility & Housekeeping
+V0112,2,355700.0,35.0,2,100.0,National Pvt Ltd,Raw Material - Steel
+V0097,9,630400.0,34.888888888888886,9,100.0,Jai Overseas,Contract Labour
+V0076,4,203800.0,34.75,4,100.0,Bharat & Co,Packaging
+V0063,3,304100.0,34.666666666666664,3,100.0,Bharat Industries,Consulting Services
+V0114,5,657700.0,34.6,5,100.0,Ganesh Suppliers,Facility & Housekeeping
+V0009,2,190400.0,34.5,2,100.0,Bharat Impex,Electrical Components
+V0018,2,34600.0,34.5,2,100.0,Global Impex,Consulting Services
+V0103,15,633000.0,33.93333333333333,15,100.0,United Solutions,Raw Material - Steel
+V0028,10,888700.0,33.9,10,100.0,Global Corporation,Facility & Housekeeping
+V0084,8,217400.0,33.875,8,100.0,Jai Engineering Works,Logistics & Freight
+V0068,9,399300.0,33.77777777777778,9,100.0,Krishna Pvt Ltd,Consulting Services
+V0125,6,784100.0,33.666666666666664,6,100.0,Om Traders,IT & Software Services
+V0074,7,9934196.0,33.57142857142857,7,100.0,Metro Suppliers,Consulting Services
+V0105,4,9972900.0,33.5,4,100.0,Vertex Associates,IT & Software Services
+V0008,3,108900.0,33.333333333333336,3,100.0,Shree Impex,IT & Software Services
+V0100,6,706100.0,33.333333333333336,6,100.0,Balaji Traders,MRO Supplies
+V0102,7,1031033.0,33.285714285714285,7,100.0,United Suppliers,Tooling & Dies
+V0031,10,787383.0,33.1,10,100.0,Om & Co,Consulting Services
+V0034,4,244800.0,32.5,4,100.0,Apex Solutions,Machine Spares
+V0010,2,423300.0,32.0,2,100.0,Royal Enterprises,Machine Spares
+V0090,4,518200.0,32.0,4,100.0,Royal Pvt Ltd,Tooling & Dies
+V0023,5,254600.0,31.6,5,100.0,Sigma Traders,Logistics & Freight
+V0035,4,223500.0,31.5,4,100.0,Balaji & Co,Packaging
+V0117,2,525000.0,31.5,2,100.0,Royal Industries,Raw Material - Aluminium
+V0122,12,542935.0,31.416666666666668,12,100.0,Ganesh Associates,MRO Supplies
+V0126,4,131500.0,31.25,4,100.0,Royal Pvt Ltd,MRO Supplies
+V0014,5,731500.0,31.2,5,100.0,United Overseas,Tooling & Dies
+V0061,7,867220.0,31.0,7,100.0,Balaji Corporation,Contract Labour
+V0065,4,156000.0,30.75,4,100.0,Sunrise Solutions,Consulting Services
+V0096,10,3564700.0,30.7,10,100.0,Vertex Solutions,Facility & Housekeeping
+V0095,8,451400.0,30.625,8,100.0,Balaji Suppliers,Raw Material - Steel
+V0027,4,801400.0,29.75,4,100.0,Sigma Suppliers,Raw Material - Aluminium
+V0113,8,265000.0,29.5,8,100.0,United Overseas,Packaging
+V0101,5,209900.0,28.8,5,100.0,Balaji Corporation,Logistics & Freight
+V0127,3,107800.0,28.666666666666668,3,100.0,Om Pvt Ltd,Contract Labour
+V0128,2,164200.0,28.5,2,100.0,Krishna & Co,Electrical Components
+V0054,2,430600.0,28.0,2,100.0,Jai Traders,Logistics & Freight
+V0062,1,38100.0,27.0,1,100.0,Jai Impex,Raw Material - Aluminium
+V0022,4,151200.0,25.5,4,100.0,Balaji Overseas,Logistics & Freight
+V0011,3,223600.0,23.0,3,100.0,Horizon Impex,Facility & Housekeeping
+V0037,3,180800.0,22.666666666666668,3,100.0,Krishna Corporation,Raw Material - Steel
+V0060,5,237700.0,22.6,5,100.0,Ganesh Industries,MRO Supplies
+V0089,3,3301700.0,21.333333333333332,3,100.0,Apex Industries,IT & Software Services
+V0030,5,151300.0,21.2,5,100.0,Shree Impex,Contract Labour
+V0094,4,185100.0,21.0,4,100.0,National Industries,Machine Spares
+V0092,7,164500.0,20.857142857142858,7,100.0,Royal Engineering Works,Contract Labour
+V0053,3,62300.0,20.666666666666668,3,100.0,Apex Solutions,Raw Material - Steel
+V0004,3,100600.0,20.666666666666668,3,100.0,Krishna Engineering Works,Machine Spares
+V0055,9,948200.0,20.333333333333332,9,100.0,Bharat Enterprises,Packaging
+V0121,7,317400.0,20.142857142857142,7,100.0,Elite & Co,Raw Material - Aluminium
+V0116,2,149700.0,19.5,2,100.0,Ganesh Pvt Ltd,Logistics & Freight
+V0123,6,281088.0,19.5,6,100.0,Bharat Associates,Electrical Components
+V0130,1,10500.0,19.0,1,100.0,Shree Enterprises,Machine Spares
+V0050,9,472200.0,18.77777777777778,9,100.0,Sunrise Industries,Contract Labour
+V0020,4,12712.0,18.75,4,100.0,Vertex & Co,MRO Supplies
+V0066,2,51700.0,18.5,2,100.0,Elite & Co,Packaging
+V0059,5,645000.0,18.4,5,100.0,United Enterprises,Logistics & Freight
+V0069,6,584200.0,17.666666666666668,6,100.0,Horizon Suppliers,IT & Software Services
+V0064,3,218200.0,17.333333333333332,3,100.0,Prime Industries,Tooling & Dies
+V0098,9,591900.0,17.22222222222222,9,100.0,Vertex Solutions,Electrical Components
+V0039,3,121600.0,17.0,3,100.0,Krishna Pvt Ltd,Raw Material - Aluminium
+V0111,5,341000.0,16.4,5,100.0,Vertex Industries,MRO Supplies
+V0080,4,9814500.0,16.25,4,100.0,Jai Suppliers,Tooling & Dies
+V0045,7,260400.0,15.0,7,100.0,National Suppliers,Logistics & Freight
+V0026,1,52300.0,14.0,1,100.0,Bharat Engineering Works,Contract Labour
+V0088,2,113100.0,13.5,2,100.0,Ganesh Suppliers,Consulting Services
+V0036,2,268200.0,13.5,2,100.0,Bharat Impex,Machine Spares
