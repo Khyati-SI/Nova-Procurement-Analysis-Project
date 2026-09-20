@@ -103,7 +103,7 @@ The Power BI dashboard was designed to allow management to explore procurement a
 
 #### Procurement Controls & Exceptions
 
-![Procurement Controls](outputs/charts/03_Procurement_Controls.png)
+![Procurement Controls](Outputs/charts/Executive Overview.png)
 
 #### Payment Performance & Trends
 
