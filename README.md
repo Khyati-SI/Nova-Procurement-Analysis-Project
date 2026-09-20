@@ -87,5 +87,31 @@ Exploratory Data Analysis
 Business Findings
         ↓
 Power BI Dashboard
+
+# Power BI Dashboard
+
+The Power BI dashboard was designed to allow management to explore procurement activity from different perspectives.
+### Dashboard Preview
+
+#### Executive Overview
+
+![Executive Overview](outputs/charts/01_Executive_Overview.png)
+
+#### Vendor Risk & Concentration
+
+![Vendor Risk](outputs/charts/02_Vendor_Risk.png)
+
+#### Procurement Controls & Exceptions
+
+![Procurement Controls](outputs/charts/03_Procurement_Controls.png)
+
+#### Payment Performance & Trends
+
+![Payment Performance](outputs/charts/04_Payment_Performance.png)
+
+#### Vendor Investigation
+
+![Vendor Investigation](outputs/charts/05_Vendor_Investigation.png)
+
         ↓
 Recommendations
