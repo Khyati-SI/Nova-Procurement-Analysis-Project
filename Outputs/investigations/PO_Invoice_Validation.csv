@@ -1,0 +1,4 @@
+Check,Exception_Count
+Invoice exceeds PO amount,24
+Invoice dated before PO,10
+Payment before invoice,0
