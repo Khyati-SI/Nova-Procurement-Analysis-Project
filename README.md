@@ -1,5 +1,5 @@
 
-# Nova Precision Manufacturing — Procurement Analytics Project
+# Nova Precision Manufacturing Procurement Analytics Project
 
 ##  Project Overview
 
